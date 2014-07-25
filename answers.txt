@@ -1,0 +1,17 @@
+problem 1: 233168 ok
+problem 2: 4613732 ok
+problem 3: 6857 ok
+problem 4: 698896 not ok
+
+problem 6: 25164150 ok
+problem 7: 104743 ok
+problem 8: 23514624000 ok
+
+problem 10: 142913828922 ok
+
+problem 12: 76576500 ok
+problem 14: 837799 ok
+problem 15: 137846528820 ok
+problem 16: 1366 ok
+problem 22: 871198282 ok
+problem 23: 297633032 not ok
